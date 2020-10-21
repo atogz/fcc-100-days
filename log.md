@@ -10,7 +10,7 @@
 
 ### День 2:  21 октября, 2020
 
-**Что сделал**: 32/52 секции Applied Visual Design курса FreeCodeCamp.
+**Что сделал**: 32/52 упражнений секции Applied Visual Design курса FreeCodeCamp.
 
 **Мысли:** Повторил знания о box-model, position (relative, absolute, fixed, sticky) и потоке (flow) документа. 
 Узнал новое про теорию цветов (RGB и complementary-цвета). Узнал полезную информацию про hsl(hue - saturate - lightness).
