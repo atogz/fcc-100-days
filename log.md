@@ -32,3 +32,14 @@ animation-timig-function:
     значения x (x, y, x, y) не могут быть больше 1, а значения y - могут.
 
 По animation-timing-function: cubic-bezier() - нужно еще более детально разобраться (посмотреть видео и почитать материалы).
+
+### День 4:  23 октября, 2020
+
+**Что сделал**: Изучил более детально работу с анимациями, конкретно с animation-timing-function: cubic-bezier(), посмотрел и 
+попрактиковался, как это можно применять во Vue-приложениях.
+
+**Мысли:** Очень интересная штука, Vue-transitions открылись с новой стороны. Нашел сайт cubic-bezier.com,
+который позволяет генерировать параметры для анимации. Написал небольшую анимацию для router-view transitions.
+
+**Link to work:** [GitHub](https://github.com/atogz/cubic-bezier-vue)
+                  [Demo](https://practical-mclean-59ebf8.netlify.app/)
