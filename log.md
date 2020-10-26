@@ -41,5 +41,17 @@ animation-timig-function:
 **Мысли:** Очень интересная штука, Vue-transitions открылись с новой стороны. Нашел сайт cubic-bezier.com,
 который позволяет генерировать параметры для анимации. Написал небольшую анимацию для router-view transitions.
 
-**Link to work:** [GitHub](https://github.com/atogz/cubic-bezier-vue)
+**Link to work:** [GitHub](https://github.com/atogz/cubic-bezier-vue) |
                   [Demo](https://practical-mclean-59ebf8.netlify.app/)
+
+### День 5:  26 октября, 2020
+
+**Что сделал**: 8/22 упражнений секции Applied Accessibility курса FreeCodeCamp.
+
+**Мысли:** Освежил знания о семантичных элементах `<header>`, `<footer>`, `<main>`, `<section>`, `<article>`, а также в каких
+случаях они используются и в чем преимущества их использования. Помимо этого прочитал про
+корректное использование заголовков. Следуя всем правилам, заменил `<div>` в рабочем проекте
+на подходящие элементы, там, где это было уместно.
+
+**Link to work:** [GitHub](https://github.com/atogz/coral-blog) |
+                  [Demo](http://ru.dev13.coralorder.su/news/v2/)
