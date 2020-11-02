@@ -99,4 +99,19 @@ animation-timig-function:
 Особого внимания и дополнительного изучения требуют следующие свойства (есть не очень понятные моменты):                                   
 `grid-template-areas, grid-area, repeat(), minmax(), auto-fill, auto-fit`. Отдельной практики требуют subgrids (грид внутри грида).
 Планирую потратить еще как минимум 3-4 часа на практику гридов.                                   
-                                       
+      
+### День 10:  02 ноября, 2020
+
+**Что сделал**: 28/28 упражнений на сайте https://cssgridgarden.com/
+**Мысли:** Отрицательные значения `grid-column-start, grid-column end`
+            Использование `span` вместе с `grid-column-start, grid-column end`, например `grid-column-start: span 2`.
+            `span` не может иметь отрицательное значение.
+            Очень понравилось использовать сокращение в духе - `grid-area: 1 / 2 / span 3 / span 4`. Порядок
+            параметров такой: `grid-row-start / grid-column-start / grid-row-end / grid-column-end`
+            Узнал о существовании свойства `order` - меняет порядок, может принимать отрциательное значение.
+            Нужно больше попрактиваться в комбинации разных единиц измерений внутри `grid-column-start / grid-row-start`, 
+            например когда значения в духе `grid-column-start: 75px 3fr 2fr`.
+            
+            Нужно посмотреть видео-пояснение - https://www.youtube.com/watch?v=7AgS1Dm2QeM
+ 
+               
